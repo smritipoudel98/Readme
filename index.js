@@ -27,3 +27,9 @@ let x = 4,
   z = 6;
 let res = x > y || x < z;
 console.log(res);
+
+let num1 = 5;
+let num2 = 6;
+if (num1 > num2) console.log("num1 is greater");
+else console.log("num2 is greater");
+console.log("bye....");
