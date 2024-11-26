@@ -18,6 +18,12 @@
 // console.log(data);
 
 let data2 = "ange";
-let data3 = "apple";
+let data3 = 9;
 let data4 = data2 > data3;
 console.log(data4);
+
+let x = 4,
+  y = 5,
+  z = 6;
+let res = x > y || x < z;
+console.log(res);
